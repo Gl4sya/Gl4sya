@@ -13,4 +13,4 @@
 - 💻 Favorite programming language: *Python*
 - 🌱 I’m currently learning: *Ethical Hacking*
 
-![Alt Text](https://64.media.tumblr.com/cedc860be12f1f2a5b3ac30cab4e36af/tumblr_pegboopZNW1tdpe7jo1_640.gif)
+![Alt Text](https://i.pinimg.com/originals/38/ca/f5/38caf5e4e66f63cd16e788dc52770dee.gif)
