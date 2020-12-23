@@ -1,16 +1,16 @@
-### Hi there 👋
+###  👋 | Welcome to my profile
 
-<!--
-**Gl4sya/Gl4sya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧑‍💻 | Glasya the God
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gl4sya/)](https://github.com/Gl4sya/)
+![Github Badge](https://img.shields.io/github/followers/Gl4sya?style=social)
 
-Here are some ideas to get you started:
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-cl14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCThDBpNhMYFlxlvcQLLDS8w)](https://www.youtube.com/channel/UCThDBpNhMYFlxlvcQLLDS8w)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐧 | About me:
+
+- 👽 My discord is: ⛧ Gl4sya The God ⛧#7772
+- 🖥 My main OS is: *Kubuntu*
+- 💻 Favorite programming language: *Python*
+- 🌱 I’m currently learning: *Ethical Hacking*
+
+![Alt Text](https://64.media.tumblr.com/cedc860be12f1f2a5b3ac30cab4e36af/tumblr_pegboopZNW1tdpe7jo1_640.gif)
