@@ -9,8 +9,11 @@
 ## 🐧 | About me:
 
  ► 👽 My discord is: ⛧ Gl4sya The God ⛧#7772
+ 
  ► 🖥 My main OS is: *Kubuntu*
+ 
  ► 💻 Favorite programming language: *Python*
+ 
  ► 🌱 I’m currently learning: *Ethical Hacking*
 
 ![Alt Text](https://i.pinimg.com/originals/38/ca/f5/38caf5e4e66f63cd16e788dc52770dee.gif)
