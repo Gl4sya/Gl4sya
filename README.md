@@ -9,7 +9,7 @@
 ## 🐧 | About me:
 
  - ► 👽 My discord is: ⛧ Gl4sya The God ⛧#7772
- - ► 🖥 My main OS is: *Kubuntu*
+ - ► 🖥 My main OS is: *Kali Linux*
  - ► 💻 Favorite programming language: *Python*
  - ► 🌱 I’m currently learning: *Ethical Hacking*
 
