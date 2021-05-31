@@ -4,8 +4,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gl4sya/)](https://github.com/Gl4sya/)
 ![Github Badge](https://img.shields.io/github/followers/Gl4sya?style=social)
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-cl14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCThDBpNhMYFlxlvcQLLDS8w)](https://www.youtube.com/channel/UCThDBpNhMYFlxlvcQLLDS8w)
-
 ## 🐧 | About me:
 
  - ► 🖥 My main OS is: *Kali Linux*
