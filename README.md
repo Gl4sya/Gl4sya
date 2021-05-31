@@ -1,6 +1,6 @@
 ###  👋 | Welcome to my profile
 
-# 🧑‍💻 | Glasya
+# 🧑‍💻 | Francisco Vicentini
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gl4sya/)](https://github.com/Gl4sya/)
 ![Github Badge](https://img.shields.io/github/followers/Gl4sya?style=social)
 
@@ -8,7 +8,6 @@
 
 ## 🐧 | About me:
 
- - ► 👽 My discord is: Gl4sya 神#7772
  - ► 🖥 My main OS is: *Kali Linux*
  - ► 💻 Favorite programming language: *Python*
  - ► 🌱 I’m currently learning: *Software reverse engineering*
