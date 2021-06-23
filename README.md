@@ -6,7 +6,7 @@
 
 ## 🐧 | About me:
 
- - ► 🖥 My main OS is: *Kali Linux*
+ - ► 🖥 My main OS is: *Arch Linux*
  - ► 💻 Favorite programming language: *Python*
  - ► 🌱 I’m currently learning: *Software reverse engineering*
 
