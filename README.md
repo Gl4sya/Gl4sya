@@ -1,4 +1,4 @@
-<h1 align="center">Francisco Vicentini💻</h1>
+<h1 align="center">Francisco Vicentini</h1>
 
 <div> 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gl4sya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
