@@ -1,3 +1,4 @@
+<h1 align="center">👨‍💻</h1>
 <h1 align="center">Francisco Vicentini</h1>
 
 <div> 
