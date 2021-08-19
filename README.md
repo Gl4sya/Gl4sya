@@ -21,9 +21,16 @@ src=https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=Duck
 </div>
   
 <h2 align="center">About me</h2>
+<div>
+  <img align="right" alt="gifzada" src="https://i.pinimg.com/originals/38/ca/f5/38caf5e4e66f63cd16e788dc52770dee.gif">
+</div>
 
- - ► 🖥 My main OS is: *Arch Linux*
+<div>
+  
+ - ► 🖥 My main OS is: *Arch Linux (bspwm)*
+  
  - ► 💻 Favorite programming language: *Python*
+  
  - ► 🌱 I’m currently learning: *Software reverse engineering*
+</div>
 
-![Alt Text](https://i.pinimg.com/originals/38/ca/f5/38caf5e4e66f63cd16e788dc52770dee.gif)
