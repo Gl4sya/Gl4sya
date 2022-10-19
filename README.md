@@ -1,7 +1,7 @@
 <h1 align="center">Gl4sya</h1>
 
 <div align="center"> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gl4sya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gl4sya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
 </div>
 
 <div align="center"> 
@@ -21,14 +21,14 @@ src=https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=Duck
   
 <h2 align="center">About me</h2>
 <div>
-  <img align="right" alt="gifzada" src="https://i.pinimg.com/originals/38/ca/f5/38caf5e4e66f63cd16e788dc52770dee.gif">
+  <img align="right" alt="gifzada" src="https://i.pinimg.com/originals/21/30/28/213028019397e33af974fb5117ddd9e8.gif">
 </div>
 
 <div>
   
  - ► 🖥 My main OS is: *Arch Linux (bspwm)*
   
- - ► 💻 Favorite programming language: *Python*
+ - ► 💻 Favorite programming language: *C*
   
  - ► 🌱 I’m currently learning: *Software reverse engineering*
 </div>
