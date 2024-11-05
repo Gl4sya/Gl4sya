@@ -19,7 +19,7 @@
   <img align="right" alt="gifzada" src="https://i.pinimg.com/originals/21/30/28/213028019397e33af974fb5117ddd9e8.gif">
   
   <p>
-    🛡️ <strong>Security Research Analyst</strong> | <strong>Malware Analysis</strong> and <strong>Reverse Engineering</strong><br><br>
+    🛡️ <strong>Security Research Analyst</strong> | <strong>Malware Analysis</strong> and <strong>Rev/Pwn</strong><br><br>
       🧩 <strong>MacOS</strong> and <strong>Windows</strong> environments, targeting <strong>behavioral analysis</strong><br><br>
       🛠️ <strong>Tools</strong>: Ghidra, IDA Pro, Bin. Ninja, radare2, x64dbg, DIE, and more<br><br>
       💻 <strong>Programming</strong>: C/C++, Rust, Python, Assembly (x86/x64/ARM)<br><br>
