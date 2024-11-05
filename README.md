@@ -20,7 +20,7 @@
   
   <p>
     🛡️ <strong>Security Research Analyst</strong> | <strong>Malware Analysis</strong> and <strong>Rev/Pwn</strong><br><br>
-      🧩 <strong>MacOS</strong> and <strong>Windows</strong> environments, targeting <strong>behavioral analysis</strong><br><br>
+      🧩 <strong>MacOS</strong> and <strong>Windows</strong>, targeting <strong>behavioral analysis</strong><br><br>
       🛠️ <strong>Tools</strong>: Ghidra, IDA Pro, Bin. Ninja, radare2, x64dbg, DIE, and more<br><br>
       💻 <strong>Programming</strong>: C/C++, Rust, Python, Assembly (x86/x64/ARM)<br><br>
       📊 <strong>Static</strong> and <strong>dynamic analysis</strong>, <strong>sandboxing</strong>, and <strong>exploitation techniques</strong><br><br>
